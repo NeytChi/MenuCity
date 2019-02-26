@@ -1,0 +1,6 @@
+/home/neytchi/Projects/Menu/Menu/bin/Debug/Menu.exe
+/home/neytchi/Projects/Menu/Menu/bin/Debug/Menu.pdb
+/home/neytchi/Projects/Menu/Menu/obj/x86/Debug/Menu.csprojAssemblyReference.cache
+/home/neytchi/Projects/Menu/Menu/obj/x86/Debug/Menu.csproj.CoreCompileInputs.cache
+/home/neytchi/Projects/Menu/Menu/obj/x86/Debug/Menu.exe
+/home/neytchi/Projects/Menu/Menu/obj/x86/Debug/Menu.pdb
